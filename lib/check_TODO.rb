@@ -1,10 +1,11 @@
+# frozen_string_literal: true
+
 def check_TODO(text)
-    fail "Not a sentence" if text.empty?
-    if text.include? "TODO"
-        return true 
-    else 
-        return false 
-    end 
-end 
-    
-    
+  raise 'Not a sentence' if text.empty?
+
+  if text.include? 'TODO'
+    true
+  else
+    false
+  end
+end

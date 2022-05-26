@@ -1,4 +1,6 @@
+# frozen_string_literal: true
+
 def count_words(text)
-    words = text.split(" ")
-      return words.length
-end 
+  words = text.split(' ')
+  words.length
+end
