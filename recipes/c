@@ -1,0 +1,35 @@
+current account = 1
+new account = 1
+coffees 0
+
+1 coffee 
+
+current account = 6 
+new coount = 7 
+coffees = 1
+
+current account = 6 
+new count = 8 
+coffes 2 
+free = 1
+
+current acccount = 3 
+new account = 7 
+coffees 3 
+free 2
+
+current account 3
+new = 8
+coffees 4 
+free 3 
+
+ca = 8 
+new = 7 
+coffees = 5 
+free 4 
+
+ca 0
+new = 8
+coffees 6
+free 5
+
